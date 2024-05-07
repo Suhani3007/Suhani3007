@@ -1,6 +1,4 @@
-### Hi there 👋
 
-# Readme.md
  <h2 align="left">Hi 👋! I am Silla Suhani <br>📚 Active Learner <br>💡 Crafting Tech Solutions for Real-World Challenges<br>🎲  Team Member of team Enlighter<br>🎯  Passionate Web Developer </h2>
 
 ###
@@ -34,16 +32,19 @@
 
 ###
 
-<img align="right" height="200" width="300" style="margin-top: -60px; margin-bottom: -20px;" src="https://cdn.dribbble.com/userupload/8229530/file/original-0c54ddd4f88db8e1ae15367bbf7dd2f0.png?resize=900x" />
+<img align="right" height="200" width="300" style="margin-top: -70px; margin-bottom: -20px;" src="https://cdn.dribbble.com/userupload/8229530/file/original-0c54ddd4f88db8e1ae15367bbf7dd2f0.png?resize=900x" />
 
 
 
 
 ###
 
-<p align="left">🏆 Dark Patterns Buster Hackathon Finalist<br>Our team cracked the top 150 in India, fighting against deceptive design practices ✨ <br>
-🚀 Google Solution Challenge Bootcamp<br>Earned a spot in the regional bootcamp in India, igniting innovation and collaboration with Google.
-<br>💡 Harvest Innovation Hackathon Prefinalist<br> Selected as a prefinalist, bringing fresh solutions to agricultural challenges.</p>
+<div style="font-size: 18px;">
+    <p align="left">🏆 Dark Patterns Buster Hackathon Finalist<br>Our team cracked the top 150 in India, fighting against deceptive design practices ✨ <br>
+    🚀 Google Solution Challenge Bootcamp<br>Earned a spot in the regional bootcamp in India, igniting innovation and collaboration with Google.
+    <br>💡 Harvest Innovation Hackathon Prefinalist<br> Selected as a prefinalist, bringing fresh solutions to agricultural challenges.</p>
+</div>
+
 
 ###
 
