@@ -1,5 +1,6 @@
 
- <h2 align="left">Hi 👋! I am Silla Suhani <br>📚 Active Learner <br>💡 Crafting Tech Solutions for Real-World Challenges<br>🎲  Team Member of team Enlighter<br>🎯  Passionate Web Developer </h2>
+ <h2 align="left">Hi 👋! I am Silla Suhani <br>📚 Active Learner <br>💡 Crafting Tech Solutions for Real-World Challenges<br> Enthusiast UI/UX Designer 
+  🎲  Team Member of team Enlighter<br>🎯  Passionate Web Developer </h2>
 
 ###
 
