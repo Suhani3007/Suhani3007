@@ -1,5 +1,6 @@
 
- <h2 align="left">Hi 👋! I am Silla Suhani <br>📚 Active Learner <br>💡 Crafting Tech Solutions for Real-World Challenges<br>✨ Data Science & Machine Learning Enthusiast<br>🎲 Hackathon Finalist <br>🎯  </h2>
+ <h2 align="left">Hi 👋! I am Silla Suhani <br>📚 Active Learner <br>💡 Crafting Tech Solutions for Real-World Challenges<br>✨ Data Science & Machine Learning Enthusiast<br>🎲 Hackathon Finalist <br></h2>
+<!--   🎯   -->
 
 ###
 
